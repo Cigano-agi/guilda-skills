@@ -47,7 +47,14 @@ As **magias** (skills) vêm de fontes públicas reais:
 
 Os **monstros** (agentes) são prompts de [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents) (licença **MIT**), **espelhados aqui em [`agents/`](agents/)** com crédito — cada página do Grimório aponta direto pro `.md` no nosso repo. Curadoria, posicionamento e voz são da Guilda; o conteúdo do prompt é do projeto original. Atribuição completa em [`NOTICE`](NOTICE).
 
-> 🚧 **Em construção:** as 3 skills autorais da Guilda (`wite-design`, `wite-ip`, `vassoura-ux`) e o `marketplace.json` do plugin `guilda-skills` entram aqui em breve, limpos e prontos pra `/plugin install`.
+As **3 skills autorais da Guilda** já estão aqui no plugin `guilda-skills` (em [`skills/`](skills/)):
+
+```bash
+/plugin marketplace add Cigano-agi/guilda-skills
+/plugin install guilda-skills@guilda-skills
+```
+
+Isso instala: **`vassoura-ux`** (varre UX amadora e reescreve copy), **`design-system-enforcer`** (padroniza UI por design tokens + Laws of UX), **`legacy-api-migrator`** (migra integrações de API legadas entre stacks). Genéricas, sem segredo, prontas pra usar.
 
 ## Entra na Guilda
 

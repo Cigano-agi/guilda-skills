@@ -1,0 +1,20 @@
+{
+  "name": "guilda-skills",
+  "description": "Skills autorais da Guilda — do Grimório de Agentes de Negócio (@cigano.agi).",
+  "owner": {
+    "name": "Fabricio Feitosa",
+    "url": "https://instagram.com/cigano.agi"
+  },
+  "plugins": [
+    {
+      "name": "guilda-skills",
+      "description": "Skills da Guilda: design-system-enforcer, legacy-api-migrator, vassoura-ux.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Fabricio Feitosa",
+        "url": "https://instagram.com/cigano.agi"
+      }
+    }
+  ]
+}

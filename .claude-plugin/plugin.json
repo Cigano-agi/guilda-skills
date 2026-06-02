@@ -1,0 +1,13 @@
+{
+  "name": "guilda-skills",
+  "description": "Skills autorais da Guilda — UX sweep (vassoura-ux), design-system enforcement, e migração de APIs legadas. Material de apoio do Grimório de Agentes de Negócio.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Fabricio Feitosa",
+    "url": "https://instagram.com/cigano.agi"
+  },
+  "homepage": "https://github.com/Cigano-agi/guilda-skills",
+  "repository": "https://github.com/Cigano-agi/guilda-skills",
+  "license": "MIT",
+  "keywords": ["skills", "ux", "design-system", "api-migration", "guilda", "cigano"]
+}
