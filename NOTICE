@@ -1,0 +1,30 @@
+Grimório de Agentes de Negócio — a Guilda · @cigano.agi
+========================================================
+
+Atribuição de terceiros
+------------------------
+
+AGENTES (pasta `agents/`)
+Os prompts de agente em `agents/*.md` são espelhados de:
+
+    msitarzewski/agency-agents
+    https://github.com/msitarzewski/agency-agents
+    Licença: MIT
+
+Cada arquivo espelhado traz, no topo, um comentário com o caminho de origem e
+a licença. O conteúdo do prompt pertence ao projeto original e seus autores.
+A curadoria, o posicionamento, a tradução de "nome de Guilda" e a voz editorial
+do Grimório são de Fabricio Feitosa (@cigano.agi).
+
+Texto da licença MIT do projeto original (resumo): permite uso, cópia,
+modificação e redistribuição, com a exigência de manter o aviso de copyright e
+a permissão. Veja o repositório de origem para o texto integral e o detentor do
+copyright.
+
+MAGIAS (skills)
+As magias referenciadas pelo Grimório vêm de fontes públicas:
+- obra/superpowers
+- claude-plugins-official (Anthropic)
+As 3 skills autorais da Guilda (quando publicadas) são originais da Guilda.
+
+`caveman`: crédito a Julius Brussee (não é da Guilda).

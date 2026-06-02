@@ -45,7 +45,7 @@ As **magias** (skills) vêm de fontes públicas reais:
 /plugin install frontend-design@claude-plugins-official
 ```
 
-Os **monstros** (agentes) são prompts públicos de [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents) — cada página do Grimório traz o link `raw` direto pro `.md`.
+Os **monstros** (agentes) são prompts de [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents) (licença **MIT**), **espelhados aqui em [`agents/`](agents/)** com crédito — cada página do Grimório aponta direto pro `.md` no nosso repo. Curadoria, posicionamento e voz são da Guilda; o conteúdo do prompt é do projeto original. Atribuição completa em [`NOTICE`](NOTICE).
 
 > 🚧 **Em construção:** as 3 skills autorais da Guilda (`wite-design`, `wite-ip`, `vassoura-ux`) e o `marketplace.json` do plugin `guilda-skills` entram aqui em breve, limpos e prontos pra `/plugin install`.
 
